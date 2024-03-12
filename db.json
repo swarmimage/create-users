@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "mail": "sdsd@mail.ru",
+      "body": "sjgdsg",
+      "id": 1
+    },
+    {
+      "name": "user",
+      "mail": "yser@mail.ru",
+      "body": "sjdsj",
+      "id": 3
+    },
+    {
+      "mail": "sdsd@mail.ru",
+      "body": "jshdsjh",
+      "id": 4
+    },
+    {
+      "name": "Khaetbek",
+      "mail": "khaetbek@mail.ru",
+      "body": "Hello world",
+      "id": 5
+    }
+  ],
+  "cars": []
+}
